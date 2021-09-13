@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">calculator_kouta_yamamoto</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multi">×</string>
+    <string name="slash">÷</string>
+    <string name="equal">=</string>
+    <string name="period">.</string>
+    <string name="ac">AC</string>
+    <string name="percent">%</string>
+    <string name="taxon">税込</string>
+    <string name="taxoff">税別</string>
+    <string name="num0">0</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+</resources>
